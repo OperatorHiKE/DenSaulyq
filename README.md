@@ -1,8 +1,8 @@
 # DenSaulyq
 
 Project Members:
-Nikita
-Nurkhan
-Shugyla
-Daniil
-Islambek
+  Nikita
+  Nurkhan
+  Shugyla
+  Daniil
+  Islambek
