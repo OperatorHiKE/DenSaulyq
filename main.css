@@ -1,0 +1,160 @@
+@font-face {
+  font-family: 'Avenir';
+  src: url('avenir_ff/AvenirLTStd-Book.otf');
+}
+
+body{
+  background-color: #FFFFEA !important;
+  font-family: 'Open Sans';
+  font-weight: 300;
+  font-size: 20px;
+  color: #000000;
+
+  -webkit-font-smoothing: antialiased;
+  -webkit-overflow-scrolling: touch;
+
+  margin-top: 80px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Rozha One';
+  font-weight: 250;
+  color: #000000;
+}
+
+p {
+  line-height: 28px;
+  margin-bottom: 25px;
+}
+
+.centered {
+  text-align: center;
+}
+
+a{
+  color: #000000;
+  text-decoration: none;
+}
+
+a:hover, a:focus{
+  color: #ccc;
+  outline: 0;
+}
+
+hr{
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
+}
+
+.navbar{
+  font-weight: 500;
+  font-size: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.navbar-inverse{
+  background: #FFFFEA;
+  border-color: #FFFFEA;
+}
+
+.navbar-inverse .navbar-nav > .active > a {
+  background-color: #000000;
+}
+
+.navbar-inverse .navbar-brand{
+  color: #000000;
+  font-weight: bolder;
+  font-size: 22px;
+  letter-spacing: 1px;
+}
+
+#headerwrap {
+  background-image: url('icons/icon2.jpg');
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: -10px;
+  padding-top: 70px;
+  padding-bottom: 60px;
+  /*text-align: center;*/
+  -webkit-background-size: cover;
+}
+
+.card-title {
+  font-family: 'Rozha One';
+  /* width: 35%; */
+  color: #000000;
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.card-text {
+  font-family: 'Avenir';
+  color: black;
+  font-size: 20px;
+  letter-spacing: 2px;
+  padding-bottom: 20px;
+}
+
+#doc {
+  margin-top: 70px;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.MeetOurDocs h1{
+  font-family: 'Rozha One';
+  width: 100%;
+  color: #000000;
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.HowItWorks h1{
+  font-family: 'Rozha One';
+  width: 100%;
+  color: #000000;
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.HowItWorks p{
+  padding-top: 70px;
+  font-family: 'Avenir';
+  color: black;
+  font-size: 20px;
+  letter-spacing: 1.7px;
+  text-align: center;
+}
+
+
+
+.PatientsReviews {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.carousel-item{
+  font-family: 'Avenir';
+  color: black;
+  font-size: 15px;
+  letter-spacing: 1.7px;
+}
+
+
+.weewee{
+  size: large;
+}
